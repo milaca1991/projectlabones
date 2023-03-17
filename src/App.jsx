@@ -12,6 +12,9 @@ const App = () => {
   
   <h1>Sightseeing in malta </h1>
   <Tienda></Tienda>
+  <footer>
+    <p>☛Development & Data Analytics CADI</p>
+     </footer>
   
   </>
 
